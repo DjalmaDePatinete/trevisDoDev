@@ -1,0 +1,9 @@
+.add-form{
+    margin: 5vh;
+    padding: 2vh;
+    border: 2px;
+    border-radius: lightgray;
+    background-color: #f0f0f0;
+    border-style: solid;
+    font-family: 'Bebas Neue', cursive;
+}
